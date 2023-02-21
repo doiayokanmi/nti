@@ -29,3 +29,17 @@
 .smalltxt {
     font-size: 0.85em;
 }
+
+.underhover:hover {
+    text-decoration: underline !important;
+}
+
+#sidefix {
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    top: 85%;
+    left: 93%;
+    border-radius: 40%;
+    background-color: #05316a;
+}
