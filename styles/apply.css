@@ -1,7 +1,14 @@
 #nav {
     color: #ddd;
+    top: 0;
 }
 
 #navitem a {
     color: #afafaf !important;
+}
+
+
+#bg-green {
+    background-color: #46c35f;
+    color: #fff;
 }
