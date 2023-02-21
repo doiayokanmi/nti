@@ -23,5 +23,9 @@
 }
 
 .bluetxt {
-    color: #05316a;
+    color: #337ab7;
+}
+
+.smalltxt {
+    font-size: 0.85em;
 }
