@@ -1,0 +1,23 @@
+#big {
+    font-size: 4em;
+}
+
+#nav {
+    position: fixed;
+    z-index: 33;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+#nav img {
+    width: 100px;
+}
+
+.nav-item a {
+    color: #fff !important;
+    font-weight: 700;
+    font-size: 1em;
+}
+
+.nav-item a:hover {
+    color: #54a75a !important;
+}
