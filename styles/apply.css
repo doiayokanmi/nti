@@ -12,3 +12,10 @@
     background-color: #46c35f;
     color: #fff;
 }
+
+footer {
+    position: fixed;
+    top: 90%;
+    width: 100vw;
+}
+
